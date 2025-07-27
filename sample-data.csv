@@ -1,0 +1,21 @@
+id,name,age,salary,department,hire_date,performance_score,location
+1,John Smith,32,65000,Engineering,2020-03-15,85.5,New York
+2,Sarah Johnson,28,58000,Marketing,2019-07-22,92.3,Los Angeles
+3,Michael Brown,35,72000,Engineering,2018-11-10,78.9,Chicago
+4,Emily Davis,29,61000,Sales,2021-01-05,88.2,Boston
+5,David Wilson,41,85000,Engineering,2017-05-18,91.7,San Francisco
+6,Lisa Anderson,26,54000,Marketing,2022-02-14,79.4,Seattle
+7,Robert Taylor,38,78000,Sales,2019-09-30,87.1,Austin
+8,Jennifer Martinez,31,67000,Engineering,2020-12-03,84.6,Denver
+9,Christopher Lee,33,69000,Marketing,2021-06-20,90.8,Portland
+10,Amanda Garcia,27,56000,Sales,2022-04-12,82.3,Miami
+11,James Rodriguez,36,76000,Engineering,2018-08-25,89.5,Atlanta
+12,Michelle White,30,64000,Marketing,2020-10-08,86.9,Philadelphia
+13,Daniel Thompson,39,81000,Sales,2017-12-15,93.2,Houston
+14,Jessica Clark,25,52000,Engineering,2022-07-01,77.8,Phoenix
+15,Ryan Lewis,34,71000,Marketing,2021-03-28,88.7,Detroit
+16,Ashley Hall,28,59000,Sales,2020-05-17,85.1,Minneapolis
+17,Kevin Allen,37,79000,Engineering,2019-01-14,92.4,Orlando
+18,Nicole Young,29,62000,Marketing,2021-11-09,83.6,Las Vegas
+19,Steven King,40,83000,Sales,2018-04-22,90.3,San Diego
+20,Rachel Scott,26,55000,Engineering,2022-09-05,81.9,Columbus 
